@@ -1,0 +1,8 @@
+timeout=5
+66.151.147.236
+www.123456.com
+www.leagueoflegends.com:80
+www.gmail.com:443:POST:abc:123
+www.yahoo.com
+www.somesite.com
+sam-cdn.education.scholastic.com

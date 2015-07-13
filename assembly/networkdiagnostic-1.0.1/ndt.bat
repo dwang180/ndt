@@ -1,0 +1,1 @@
+java\windows\jre\bin\java.exe -Dlog4j.configurationFile=conf/log4j2.xml  -jar networkdiagnostic-1.0.jar %*
